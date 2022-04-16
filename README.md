@@ -18,7 +18,7 @@
 * [Contact](#contact)
 
 ## About The Project
-This project aims to implement and test all three sorting algorithms: Heapsort, DualPivotQuickSort and Bucketsort.
+This project aims to implement,test and compare all three sorting algorithms: Heapsort, DualPivotQuickSort and Bucketsort.
 
 ## Information About Algorithms
 
